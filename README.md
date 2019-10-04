@@ -58,7 +58,7 @@ composer require "salesagility/pimap"
 ```
 
 ### Getting Help
-All the documentation is situated in the docs directory. The documentation in this project is written in mark down and generated using [Daux.io](https://daux.io/).
+All the documentation is situated in the docs directory. The documentation in this project is written in markdown and generated using [Daux.io](https://daux.io/).
 
 #### Generate Documentation
 To build the documentation
